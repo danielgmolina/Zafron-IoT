@@ -1,0 +1,13 @@
+../Drivers/Components/vl53l0x/vl53l0x_tof.c:39:5:_I2CWrite	40	static
+../Drivers/Components/vl53l0x/vl53l0x_tof.c:48:5:_I2CRead	40	static
+../Drivers/Components/vl53l0x/vl53l0x_tof.c:57:15:VL53L0X_RdByte	32	static
+../Drivers/Components/vl53l0x/vl53l0x_tof.c:81:15:VL53L0X_WriteMulti	32	static
+../Drivers/Components/vl53l0x/vl53l0x_tof.c:102:15:VL53L0X_ReadMulti	32	static
+../Drivers/Components/vl53l0x/vl53l0x_tof.c:123:15:VL53L0X_RdWord	32	static
+../Drivers/Components/vl53l0x/vl53l0x_tof.c:146:15:VL53L0X_RdDWord	32	static
+../Drivers/Components/vl53l0x/vl53l0x_tof.c:170:15:VL53L0X_WrByte	24	static
+../Drivers/Components/vl53l0x/vl53l0x_tof.c:186:15:VL53L0X_WrWord	24	static
+../Drivers/Components/vl53l0x/vl53l0x_tof.c:203:15:VL53L0X_UpdateByte	24	static
+../Drivers/Components/vl53l0x/vl53l0x_tof.c:219:15:VL53L0X_WrDWord	32	static
+../Drivers/Components/vl53l0x/vl53l0x_tof.c:236:15:VL53L0X_PollingDelay	24	static
+../Drivers/Components/vl53l0x/vl53l0x_tof.c:247:6:SetupSingleShot	40	static

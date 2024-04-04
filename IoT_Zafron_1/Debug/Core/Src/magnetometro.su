@@ -1,0 +1,2 @@
+../Core/Src/magnetometro.c:12:6:inicializarMagneto	24	static
+../Core/Src/magnetometro.c:21:6:getMagnetoAxis	48	static

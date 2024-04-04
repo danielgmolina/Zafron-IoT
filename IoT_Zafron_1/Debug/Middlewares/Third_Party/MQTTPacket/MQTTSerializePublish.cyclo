@@ -1,0 +1,6 @@
+../Middlewares/Third_Party/MQTTPacket/MQTTSerializePublish.c:30:8:MQTTSerialize_publishLength	2
+../Middlewares/Third_Party/MQTTPacket/MQTTSerializePublish.c:54:5:MQTTSerialize_publish	3
+../Middlewares/Third_Party/MQTTPacket/MQTTSerializePublish.c:101:5:MQTTSerialize_ack	2
+../Middlewares/Third_Party/MQTTPacket/MQTTSerializePublish.c:132:5:MQTTSerialize_puback	1
+../Middlewares/Third_Party/MQTTPacket/MQTTSerializePublish.c:146:5:MQTTSerialize_pubrel	1
+../Middlewares/Third_Party/MQTTPacket/MQTTSerializePublish.c:159:5:MQTTSerialize_pubcomp	1

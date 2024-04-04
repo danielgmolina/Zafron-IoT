@@ -1,0 +1,2 @@
+../Core/Src/humedad.c:14:6:inicializarHumedad	56	static
+../Core/Src/humedad.c:75:6:getHumedad	40	static

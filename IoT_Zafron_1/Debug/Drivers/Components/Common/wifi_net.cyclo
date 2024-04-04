@@ -1,0 +1,3 @@
+../Drivers/Components/Common/wifi_net.c:67:5:net_if_init	9
+../Drivers/Components/Common/wifi_net.c:147:5:net_if_deinit	1
+../Drivers/Components/Common/wifi_net.c:153:5:net_if_reinit	4

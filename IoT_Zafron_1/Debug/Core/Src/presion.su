@@ -1,0 +1,2 @@
+../Core/Src/presion.c:11:6:inicializarBarometro	24	static
+../Core/Src/presion.c:19:6:getPresion	48	static

@@ -1,0 +1,4 @@
+../Drivers/Components/Common/cloud.c:88:6:dialog_ask	5
+../Drivers/Components/Common/cloud.c:108:6:CLOUD_Error_Handler	7
+../Drivers/Components/Common/cloud.c:171:5:platform_init	15
+../Drivers/Components/Common/cloud.c:283:9:platform_deinit	1

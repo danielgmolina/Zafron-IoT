@@ -1,0 +1,2 @@
+../Drivers/Components/Common/sensors_data.c:75:5:init_sensors	16	static
+../Drivers/Components/Common/sensors_data.c:126:5:PrepareSensorsData	24	static

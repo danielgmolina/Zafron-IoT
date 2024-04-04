@@ -1,0 +1,11 @@
+../Drivers/Components/Common/http_util.c:105:5:http_req_create	8
+../Drivers/Components/Common/http_util.c:166:6:http_req_destroy	1
+../Drivers/Components/Common/http_util.c:181:5:http_open	8
+../Drivers/Components/Common/http_util.c:248:5:http_close	3
+../Drivers/Components/Common/http_util.c:288:5:http_read	33
+../Drivers/Components/Common/http_util.c:478:6:http_is_open	1
+../Drivers/Components/Common/http_util.c:499:5:http_url_parse	10
+../Drivers/Components/Common/http_util.c:584:5:http_sock_open	4
+../Drivers/Components/Common/http_util.c:621:5:http_sock_close	3
+../Drivers/Components/Common/http_util.c:647:5:http_sock_rcv	11
+../Drivers/Components/Common/http_util.c:701:5:http_sock_get_resource_size	2

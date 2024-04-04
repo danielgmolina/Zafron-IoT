@@ -1,0 +1,2 @@
+../Core/Src/tof.c:17:6:inicializarToF	16	static
+../Core/Src/tof.c:45:6:getDistancia	48	static

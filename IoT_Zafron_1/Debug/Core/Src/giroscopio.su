@@ -1,0 +1,2 @@
+../Core/Src/giroscopio.c:17:6:inicializarGiro	24	static
+../Core/Src/giroscopio.c:26:6:getAxisGyro	40	static

@@ -1,0 +1,10 @@
+../Drivers/CayenneUtils/CayenneUtils.c:54:5:buildTopic	40	static
+../Drivers/CayenneUtils/CayenneUtils.c:81:5:buildSuffix	40	static
+../Drivers/CayenneUtils/CayenneUtils.c:165:5:topicMatches	40	static
+../Drivers/CayenneUtils/CayenneUtils.c:199:5:getValueCount	40	static
+../Drivers/CayenneUtils/CayenneUtils.c:251:5:parsePayload	40	static
+../Drivers/CayenneUtils/CayenneUtils.c:316:5:CayenneBuildTopic	56	static
+../Drivers/CayenneUtils/CayenneUtils.c:333:5:CayenneBuildDataPayload	32	static
+../Drivers/CayenneUtils/CayenneUtils.c:383:5:CayenneBuildResponsePayload	40	static
+../Drivers/CayenneUtils/CayenneUtils.c:403:5:CayenneParseTopic	104	static
+../Drivers/CayenneUtils/CayenneUtils.c:489:5:CayenneParsePayload	40	static

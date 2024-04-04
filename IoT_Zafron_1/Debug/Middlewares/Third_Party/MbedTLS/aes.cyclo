@@ -1,0 +1,10 @@
+../Middlewares/Third_Party/MbedTLS/aes.c:58:13:mbedtls_zeroize	2
+../Middlewares/Third_Party/MbedTLS/aes.c:467:6:mbedtls_aes_init	1
+../Middlewares/Third_Party/MbedTLS/aes.c:472:6:mbedtls_aes_free	2
+../Middlewares/Third_Party/MbedTLS/aes.c:484:5:mbedtls_aes_setkey_enc	13
+../Middlewares/Third_Party/MbedTLS/aes.c:598:5:mbedtls_aes_setkey_dec	4
+../Middlewares/Third_Party/MbedTLS/aes.c:713:5:mbedtls_internal_aes_encrypt	2
+../Middlewares/Third_Party/MbedTLS/aes.c:781:5:mbedtls_internal_aes_decrypt	2
+../Middlewares/Third_Party/MbedTLS/aes.c:848:5:mbedtls_aes_crypt_ecb	2
+../Middlewares/Third_Party/MbedTLS/aes.c:880:5:mbedtls_aes_crypt_cbc	7
+../Middlewares/Third_Party/MbedTLS/aes.c:1240:5:mbedtls_aes_self_test	25

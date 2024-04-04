@@ -1,0 +1,9 @@
+../Drivers/CayenneUtils/CayenneDataArray.c:29:6:CayenneDataArrayInit	24	static
+../Drivers/CayenneUtils/CayenneDataArray.c:44:5:CayenneDataArrayAdd	32	static
+../Drivers/CayenneUtils/CayenneDataArray.c:83:5:CayenneDataArrayAddInt	64	static
+../Drivers/CayenneUtils/CayenneDataArray.c:101:5:CayenneDataArrayAddUInt	64	static
+../Drivers/CayenneUtils/CayenneDataArray.c:119:5:CayenneDataArrayAddLong	64	static
+../Drivers/CayenneUtils/CayenneDataArray.c:137:5:CayenneDataArrayAddULong	64	static
+../Drivers/CayenneUtils/CayenneDataArray.c:155:5:CayenneDataArrayAddDouble	72	static
+../Drivers/CayenneUtils/CayenneDataArray.c:173:5:CayenneDataArrayAddFloat	72	static
+../Drivers/CayenneUtils/CayenneDataArray.c:188:6:CayenneDataArrayClear	16	static

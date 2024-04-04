@@ -1,0 +1,2 @@
+../Core/Src/acelerometro.c:16:6:inicializarAcelerometro	1
+../Core/Src/acelerometro.c:25:6:getAxisAccelerometer	1
